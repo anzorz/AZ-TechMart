@@ -32,7 +32,7 @@ AZ TechMart is a fictional online store created as part of a web development pro
 
 ### How to View the Project
  - Clone the repository:
- - git clone https://github.com/yourusername/az-techmart.git
+ - git clone https://github.com/anzorz/az-techmart.git
  - Open the index.html file in your preferred web browser.
 
 ### Future Enhancements
@@ -40,7 +40,7 @@ AZ TechMart is a fictional online store created as part of a web development pro
 - Implement a backend to handle and store product enquiries.
 - Expand the product range with additional categories.
 
-Author
+###Author
 M Anzor Yousuf
 Master of Data Science, Swinburne University of Technology
 102849043@student.swin.edu.au
